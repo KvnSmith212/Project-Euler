@@ -31,19 +31,25 @@ let problem2 =
     fib 1 2
 
 (*
-Problem 3
+Problem 5
 
-The prime factors of 13195 are 5, 7, 13 and 29.
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
 
-What is the largest prime factor of the number 600851475143 ?
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 *)
+let problem5 = 
+    Seq.initInfinite (fun x -> x * 20)
+    |> Seq.filter (fun x -> x % 19 = 0 && x % 18 = 0 && x % 17 = 0 && x % 16 = 0 && x % 15 = 0 && x % 14 = 0 && x % 13 = 0 && x % 12 = 0 && x % 11 = 0)
+    |> Seq.take 2
+    |> Seq.last
+
 
 [<EntryPoint>]
 let main argv = 
     printfn "%A" argv
-    printfn "Hello world and project Euler"
+    printfn "Hello world and proj\ect Euler"
     printfn "Problem 1: %d" problem1
     printfn "Problem 2: %d" problem2 
-    //printfn "Better Problem 2: %d" improved2 4000000
+    printfn "Problem 5: %d" problem5
     System.Console.ReadKey() |> ignore
     0 // return an integer exit code

@@ -6,3 +6,11 @@ c:\users\kevin\documents\visual studio 2013\Projects\Project Euler\Project Euler
 c:\users\kevin\documents\visual studio 2013\Projects\Project Euler\Project Euler\bin\Debug\FSharp.Core.xml
 c:\users\kevin\documents\visual studio 2013\Projects\Project Euler\Project Euler\obj\Debug\Project_Euler.exe
 c:\users\kevin\documents\visual studio 2013\Projects\Project Euler\Project Euler\obj\Debug\Project_Euler.pdb
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\Project_Euler.exe.config
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\Project_Euler.XML
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\Project_Euler.exe
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\Project_Euler.pdb
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\FSharp.Core.dll
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\bin\Debug\FSharp.Core.xml
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\obj\Debug\Project_Euler.exe
+C:\Users\kvnsm_000\Documents\Visual Studio 2013\Projects\Project-Euler\Project Euler\obj\Debug\Project_Euler.pdb
